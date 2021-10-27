@@ -1,2 +1,8 @@
-# Predictions-by-Multi-Regression
-A real estate association in a suburban community would like to study the relationship between the size of a single-family house (as measured by the square footage) and the selling price of the house (in thousands of dollars) along with other features.
+# MODELS & TEST
+Pratice building models in R into predictions, perform various kind of tests to choose best models. 
+- Linear and Non-linear Models
+- Multi-Regression
+- Heteroscedasticity problems.
+- Logit and Poisson Model
+- Panel Data Model
+- Times Series Prediction.
